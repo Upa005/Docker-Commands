@@ -26,6 +26,9 @@ Few Useful Docker Commands
 ```
 docker pull centos
 ```
+```
+docker pull nginx
+``
 
 ### To run docker image
  
